@@ -3,3 +3,4 @@ hello 2
 
 hell 22
 add b1
+del b1
